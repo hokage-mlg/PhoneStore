@@ -1,0 +1,9 @@
+D:\Studying\Learn ASP.NET CORE\PhoneStore.Domain\bin\Debug\netcoreapp3.1\PhoneStore.Domain.deps.json
+D:\Studying\Learn ASP.NET CORE\PhoneStore.Domain\bin\Debug\netcoreapp3.1\PhoneStore.Domain.dll
+D:\Studying\Learn ASP.NET CORE\PhoneStore.Domain\bin\Debug\netcoreapp3.1\PhoneStore.Domain.pdb
+D:\Studying\Learn ASP.NET CORE\PhoneStore.Domain\obj\Debug\netcoreapp3.1\PhoneStore.Domain.AssemblyInfoInputs.cache
+D:\Studying\Learn ASP.NET CORE\PhoneStore.Domain\obj\Debug\netcoreapp3.1\PhoneStore.Domain.AssemblyInfo.cs
+D:\Studying\Learn ASP.NET CORE\PhoneStore.Domain\obj\Debug\netcoreapp3.1\PhoneStore.Domain.dll
+D:\Studying\Learn ASP.NET CORE\PhoneStore.Domain\obj\Debug\netcoreapp3.1\PhoneStore.Domain.pdb
+D:\Studying\Learn ASP.NET CORE\PhoneStore.Domain\obj\Debug\netcoreapp3.1\PhoneStore.Domain.csprojAssemblyReference.cache
+D:\Studying\Learn ASP.NET CORE\PhoneStore.Domain\obj\Debug\netcoreapp3.1\PhoneStore.Domain.csproj.CoreCompileInputs.cache

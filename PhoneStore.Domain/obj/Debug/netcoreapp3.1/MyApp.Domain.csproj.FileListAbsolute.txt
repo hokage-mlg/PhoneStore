@@ -1,0 +1,9 @@
+D:\Studying\Learn ASP.NET CORE\MyApp.Domain\bin\Debug\netcoreapp3.1\MyApp.Domain.deps.json
+D:\Studying\Learn ASP.NET CORE\MyApp.Domain\bin\Debug\netcoreapp3.1\MyApp.Domain.dll
+D:\Studying\Learn ASP.NET CORE\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.csprojAssemblyReference.cache
+D:\Studying\Learn ASP.NET CORE\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.AssemblyInfoInputs.cache
+D:\Studying\Learn ASP.NET CORE\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.AssemblyInfo.cs
+D:\Studying\Learn ASP.NET CORE\MyApp.Domain\bin\Debug\netcoreapp3.1\MyApp.Domain.pdb
+D:\Studying\Learn ASP.NET CORE\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.dll
+D:\Studying\Learn ASP.NET CORE\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.pdb
+D:\Studying\Learn ASP.NET CORE\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.csproj.CoreCompileInputs.cache

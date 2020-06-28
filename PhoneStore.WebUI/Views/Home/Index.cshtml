@@ -1,0 +1,38 @@
+﻿@model IEnumerable<PhoneStore.Domain.Entities.Phone>
+@{
+    //ViewData["Title"] = "Список смартфонов";
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Online PhoneStore</title>
+</head>
+<body>
+    <h3>Phones</h3>
+    <table>
+        <tr>
+            <td>Model</td>
+            <td>Brand</td>
+            <td>Description</td>
+            <td>Memory</td>
+            <td>Quantity</td>
+            <td>Price</td>
+            <td></td>
+        </tr>
+        @foreach (var phone in Model)
+        {
+            <tr>
+                <td>@phone.Model</td>
+                <td>@phone.Brand</td>
+                <td>@phone.Description</td>
+                <td>@phone.Memory</td>
+                <td>@phone.Quantity</td>
+                <td>@phone.Price</td>
+                <td>@Html.ActionLink("Купить", "Buy", new { controller = "Home", id = phone.Id })</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
